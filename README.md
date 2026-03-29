@@ -269,7 +269,7 @@ Git is more than a version control system. It's a statement about how software s
 
 <div align="center">
 
-**Isha Soni** · Roll No. 24BCG10022 · VIT Bhopal Campus
+**Isha Soni** · Roll No. 24BCG10022 · VIT Bhopal University 
 
 *"The code you write today stands on decades of open-source work. Know where it comes from."*
 
