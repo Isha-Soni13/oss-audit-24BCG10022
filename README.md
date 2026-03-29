@@ -171,6 +171,7 @@ Scripts work but output looks strange
 Make sure you're using a modern terminal. Some older terminal emulators don't support Unicode characters.
 ---
 The Project Report
+
 The accompanying PDF report explores four major areas:
 Part A: The Story of Git (Origins & Philosophy)
 Why did Linus Torvalds create Git? What was the BitKeeper crisis? How does GPL v2 protect your freedom? What are the ethical implications of open-source software development?
@@ -182,6 +183,7 @@ Part D: Competitive Analysis (Alternatives & Verdict)
 How does Git compare to Perforce, SVN, and Mercurial? When would you choose alternatives? What makes Git the dominant choice?
 ---
 Why This Project Matters
+
 Most developers use Git without understanding its origins or implications. They don't know:
 Why it exists (BitKeeper's proprietary licensing triggered its creation)
 What freedoms they have (GPL v2 guarantees four specific rights)
@@ -190,6 +192,7 @@ How it connects to broader principles (Git represents community ownership of cri
 This audit bridges that gap. It's not just "how to use Git." It's "why Git exists and what that means for software development."
 ---
 Resources Used
+
 GNU Free Software Philosophy — https://gnu.org/philosophy/free-sw.html
 The Open Source Initiative Definition — https://opensource.org/osd
 Official Git Documentation — https://git-scm.com/doc
@@ -197,6 +200,7 @@ Official Git Documentation — https://git-scm.com/doc
 "The Cathedral and the Bazaar" by Eric S. Raymond — Classic essay on open-source development
 ---
 License
+
 This project is released under GPL v2, the same license as Git itself.
 This means you can:
 Use this project for any purpose
@@ -206,10 +210,12 @@ Share your improvements with others
 The freedom extends to anyone who receives your modifications — that's the essence of copyleft.
 ---
 Final Thoughts
+
 Every line of code in the modern world depends on open-source foundations. Understanding those foundations — their history, philosophy, and licensing — is as important as knowing how to write code itself.
 Git is more than a version control system. It's a statement about how software should be developed: collaboratively, transparently, and freely.
 ---
 Isha Soni  
 Roll Number: 24BCG10022  
 VIT Bhopal Campus
+
 "The code you write today stands on decades of open-source work. Know where it comes from."
